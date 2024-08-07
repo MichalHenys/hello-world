@@ -10,3 +10,6 @@ Kolik jablek má děda, když babička má o jedno víc a to 4?
 
 # a s dalším to už snad půjde
 Lala blablablabla
+
+# Teď další
+Máma má málo masa
